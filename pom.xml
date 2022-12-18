@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>java-fx-template</artifactId>
+    <artifactId>java-fx-17-template</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>java-fx-template</name>
 
